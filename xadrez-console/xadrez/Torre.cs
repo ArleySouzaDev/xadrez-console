@@ -14,3 +14,5 @@ namespace xadrez
         }
     }
 }
+
+//Colocando peças no tabuleiro
